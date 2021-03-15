@@ -1,0 +1,15 @@
+com\uniyaz\core\domain\Urun.class
+com\uniyaz\HbUI.class
+com\uniyaz\uı\HbSaveButton.class
+com\uniyaz\uı\HbMenuBar.class
+com\uniyaz\core\dao\UrunDao.class
+com\uniyaz\uı\HbMenuBar$1.class
+com\uniyaz\uı\UrunPage$1.class
+com\uniyaz\core\domain\BaseEntity.class
+com\uniyaz\uı\MainLayout.class
+com\uniyaz\core\utils\HibernateUtil.class
+com\uniyaz\uı\SearchComponent.class
+com\uniyaz\core\service\UrunService.class
+com\uniyaz\uı\UrunPage.class
+com\uniyaz\HbServlet.class
+com\uniyaz\uı\ContentComponent.class
